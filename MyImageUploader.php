@@ -5,7 +5,7 @@ use Intervention\Image\ImageManagerStatic as Image;
 use Illuminate\Support\Facades\Storage;
 
 ##
-##
+##--
 ##
 
 class MyImageUploader
